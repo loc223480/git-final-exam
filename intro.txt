@@ -1,4 +1,8 @@
+
 Hello, this is Trần Lộc
+
+Xin chào, tôi là Trần Lộc.
+ feature-update
 - Quý 1: Hoàn thành khóa học ReactJS nâng cao.
 - Quý 2: Tìm hiểu về Docker và CI/CD.
 - Quý 3: Xây dựng một dự án cá nhân hoàn chỉnh.
