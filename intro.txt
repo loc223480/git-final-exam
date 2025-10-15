@@ -1,0 +1,15 @@
+Xin chào, mình là Trần Tấn Lộc, sinh viên ngành Công nghệ Thông tin.
+Mình rất đam mê lập trình và tìm hiểu các công nghệ mới.
+Mục tiêu của mình là trở thành một Full-stack Developer chuyên nghiệp.
+Mình thích tìm tòi và giải quyết các bài toán khó.
+Rất vui được làm quen và học hỏi từ mọi người.
+
+***Sở thích***
+1. Đọc sách khoa học viễn tưởng.
+2. Chơi cầu lông.
+3. Nghe nhạc Lofi.
+
+***Kỹ năng***
+1. Lập trình Python.
+2. Thiết kế cơ sở dữ liệu với SQL.
+3. Làm việc với Git và GitHub.
