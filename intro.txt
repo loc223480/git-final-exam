@@ -1,4 +1,4 @@
-***Kế hoạch học tập***
+Xin chào, tôi là Trần Lộc.
 - Quý 1: Hoàn thành khóa học ReactJS nâng cao.
 - Quý 2: Tìm hiểu về Docker và CI/CD.
 - Quý 3: Xây dựng một dự án cá nhân hoàn chỉnh.
