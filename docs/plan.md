@@ -30,3 +30,7 @@ EQF
 - Ngày 5: kết nối API giả (mock), xử lý fetch và render.
 - Ngày 6: viết README, cleanup code, thêm script chạy.
 - Ngày 7: tổng kết, ghi lại vấn đề gặp phải và cách giải quyết.
+- **Nâng cao:**
+  - Tìm hiểu về Git Rebase và sự khác biệt với Merge.
+  - Thực hành giải quyết một conflict phức tạp.
+  - Khám phá các lệnh ít dùng nhưng hữu ích như bisect, cherry-pick.
