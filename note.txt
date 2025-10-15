@@ -1,3 +1,5 @@
 - Git ban đầu hơi khó hiểu nhưng rất mạnh mẽ.
 - Quản lý phiên bản giúp làm việc nhóm dễ dàng hơn rất nhiều.
 - Branching là một tính năng tuyệt vời để phát triển các tính năng độc lập.
+- Lệnh revert an toàn hơn reset khi làm việc chung.
+- Mình cần thực hành nhiều hơn để thành thạo.
