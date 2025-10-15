@@ -1,0 +1,7 @@
+TÍNH NĂNG MỚI: ĐĂNG NHẬP BẰNG TÀI KHOẢN GOOGLE
+
+- Người dùng có thể chọn đăng nhập nhanh bằng tài khoản Google.
+- Hệ thống sẽ tự động lấy thông tin cơ bản như email, tên, ảnh đại diện.
+- Giúp giảm thời gian đăng ký và cải thiện trải nghiệm người dùng.
+- Yêu cầu tích hợp Google OAuth 2.0 API.
+- Cần xử lý các trường hợp người dùng đã có tài khoản với email tương tự.
